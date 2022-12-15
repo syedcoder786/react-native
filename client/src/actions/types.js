@@ -1,0 +1,15 @@
+export const FETCH_REVIEWS='FETCH_REVIEWS';
+export const REVIEWS_LOADING='REVIEWS_LOADING';
+export const REVIEWS_LOADED='REVIEWS_LOADED';
+export const ADD_REVIEW='ADD_REVIEW';
+export const ERROR_REVIEW='ERROR_REVIEW';
+// export const LOGIN_FAIL='LOGIN_FAIL';
+// export const LOGIN_SUCCESS='LOGIN_SUCCESS';
+// export const LOGOUT_SUCCESS='LOGOUT_SUCCESS';
+// export const REGESTER_SUCCESS='REGESTER_SUCCESS';
+// export const REGESTER_FAIL='REGESTER_FAIL';
+export const GET_ERRORS='GET_ERRORS';
+export const CLEAR_ERRORS='CLEAR_ERRORS';
+// export const POST_LOADING='VEDIO_LOADING';
+// export const POST_LOADED='POST_LOADED';
+// export const ADD_POST='ADD_POST';
